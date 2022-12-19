@@ -1,0 +1,21 @@
+2022-12-19 22:10:10,525 INFO This is an info message
+2022-12-19 22:10:10,526 WARNING This is a warning message
+2022-12-19 22:10:10,526 ERROR This is an error message
+2022-12-19 22:10:24,697 INFO Desktop checked
+2022-12-19 22:10:30,307 INFO Documents checked
+2022-12-19 22:10:35,828 INFO Downlods checked
+2022-12-19 22:10:41,095 INFO Down to the Desktop level
+2022-12-19 22:10:41,233 INFO Notes checked
+2022-12-19 22:10:47,154 INFO Commands checked
+2022-12-19 22:10:52,323 INFO Down to the Documents level
+2022-12-19 22:10:52,566 INFO WorkSpace checked
+2022-12-19 22:10:57,778 INFO Office checked
+2022-12-19 22:10:58,059 INFO React checked
+2022-12-19 22:11:03,283 INFO Angular checked
+2022-12-19 22:11:08,505 INFO Vue Checked
+2022-12-19 22:11:13,961 INFO public checked
+2022-12-19 22:11:19,265 INFO Private was checked
+2022-12-19 22:11:24,559 INFO Classified was checked
+2022-12-19 22:11:30,188 INFO General was checked
+2022-12-19 22:11:35,703 INFO Word File checked
+2022-12-19 22:11:40,958 INFO Excel File checked
